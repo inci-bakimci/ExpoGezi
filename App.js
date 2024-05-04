@@ -11,9 +11,6 @@ import {
 
 //yeni eklediklerim
 
-import * as SplashScreen from "expo-splash-screen";
-import {{{{}}}}
-
 const App = () => {
   let [fontsLoaded, fontError] = useFonts({
     Poppins_400Regular, 
